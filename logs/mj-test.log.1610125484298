@@ -1,0 +1,43 @@
+INFO  17:52:34,040 - Compiling source file: C:\Users\Luka\eclipse-workspace\ProjekatPP2021\test\program.mj
+INFO  17:52:35,686 - #2 program
+INFO  17:52:35,686 - #32 test301
+INFO  17:52:35,687 - #6 const
+INFO  17:52:35,737 - #32 int
+INFO  17:52:35,737 - #32 nula
+INFO  17:52:35,744 - #15 =
+INFO  17:52:35,745 - #35 0
+INFO  17:52:35,745 - #22 ;
+INFO  17:52:35,745 - #6 const
+INFO  17:52:35,746 - #32 int
+INFO  17:52:35,746 - #32 jedan
+INFO  17:52:35,747 - #15 =
+INFO  17:52:35,747 - #35 1
+INFO  17:52:35,747 - #22 ;
+INFO  17:52:35,747 - #6 const
+INFO  17:52:35,748 - #32 int
+INFO  17:52:35,748 - #32 pet
+INFO  17:52:35,749 - #15 =
+INFO  17:52:35,749 - #35 5
+INFO  17:52:35,749 - #22 ;
+INFO  17:52:35,750 - #32 int
+INFO  17:52:35,751 - #32 niz
+INFO  17:52:35,751 - #18 [
+INFO  17:52:35,751 - #19 ]
+INFO  17:52:35,751 - #22 ;
+INFO  17:52:35,752 - #32 char
+INFO  17:52:35,753 - #32 nizch
+INFO  17:52:35,753 - #18 [
+INFO  17:52:35,753 - #19 ]
+INFO  17:52:35,753 - #22 ;
+INFO  17:52:35,753 - #16 {
+INFO  17:52:35,753 - #7 void
+INFO  17:52:35,753 - #32 main
+INFO  17:52:35,754 - #20 (
+INFO  17:52:35,781 - #21 )
+INFO  17:52:35,792 - #32 int
+INFO  17:52:35,793 - #32 bodovi
+INFO  17:52:35,793 - #22 ;
+INFO  17:52:35,794 - #32 bool
+ERROR 17:52:35,794 - 
+Sintaksna greska na liniji 15
+ERROR 17:52:35,795 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 15

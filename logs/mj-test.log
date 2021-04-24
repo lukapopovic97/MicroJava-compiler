@@ -1,0 +1,267 @@
+INFO  13:57:32,622 - Compiling source file: C:\Users\Luka\eclipse-workspace\ProjekatPP2021\test\program.mj
+INFO  13:57:32,711 - #2 program
+INFO  13:57:32,711 - #26 test301
+INFO  13:57:32,711 - #6 const
+INFO  13:57:32,713 - #26 int
+INFO  13:57:32,713 - #26 nula
+INFO  13:57:32,714 - #15 =
+INFO  13:57:32,714 - #29 0
+INFO  13:57:32,714 - #22 ;
+INFO  13:57:32,714 - #6 const
+INFO  13:57:32,715 - #26 int
+INFO  13:57:32,715 - #26 jedan
+INFO  13:57:32,715 - #15 =
+INFO  13:57:32,715 - #29 1
+INFO  13:57:32,715 - #22 ;
+INFO  13:57:32,715 - #6 const
+INFO  13:57:32,715 - #26 int
+INFO  13:57:32,715 - #26 pet
+INFO  13:57:32,716 - #15 =
+INFO  13:57:32,716 - #29 5
+INFO  13:57:32,716 - #22 ;
+INFO  13:57:32,716 - #26 int
+INFO  13:57:32,717 - #26 niz
+INFO  13:57:32,717 - #18 [
+INFO  13:57:32,717 - #19 ]
+INFO  13:57:32,717 - #22 ;
+INFO  13:57:32,717 - #26 char
+INFO  13:57:32,718 - #26 nizch
+INFO  13:57:32,718 - #18 [
+INFO  13:57:32,718 - #19 ]
+INFO  13:57:32,718 - #22 ;
+INFO  13:57:32,718 - #16 {
+INFO  13:57:32,719 - #7 void
+INFO  13:57:32,719 - #26 main
+INFO  13:57:32,719 - #20 (
+INFO  13:57:32,720 - #21 )
+INFO  13:57:32,721 - #26 int
+INFO  13:57:32,722 - #26 bodovi
+INFO  13:57:32,722 - #22 ;
+INFO  13:57:32,722 - #26 bool
+INFO  13:57:32,722 - #26 bt
+INFO  13:57:32,722 - #22 ;
+INFO  13:57:32,722 - #26 char
+INFO  13:57:32,723 - #26 c
+INFO  13:57:32,723 - #22 ;
+INFO  13:57:32,723 - #16 {
+INFO  13:57:32,723 - #26 bodovi
+INFO  13:57:32,724 - #15 =
+INFO  13:57:32,724 - #9 -
+INFO  13:57:32,724 - #29 1
+INFO  13:57:32,724 - #22 ;
+INFO  13:57:32,725 - #4 print
+INFO  13:57:32,725 - #20 (
+INFO  13:57:32,726 - #26 bodovi
+INFO  13:57:32,726 - #25 ?
+INFO  13:57:32,726 - #29 1
+INFO  13:57:32,727 - #24 :
+INFO  13:57:32,727 - #29 2
+INFO  13:57:32,727 - #21 )
+INFO  13:57:32,727 - #22 ;
+INFO  13:57:32,727 - #17 }
+INFO  13:57:32,727 - #17 }
+INFO  13:57:32,737 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DecarationlList(
+    DecarationlList(
+      DecarationlList(
+        DecarationlList(
+          DecarationlList(
+            NoDeclarations(
+            ) [NoDeclarations]
+            ConstDeclarationPart(
+              ConstDeclaration(
+                Type(
+                 int
+                ) [Type]
+                SingleConstDeclaration(
+                  NumConstDecl(
+                   nula
+                   0
+                  ) [NumConstDecl]
+                ) [SingleConstDeclaration]
+              ) [ConstDeclaration]
+            ) [ConstDeclarationPart]
+          ) [DecarationlList]
+          ConstDeclarationPart(
+            ConstDeclaration(
+              Type(
+               int
+              ) [Type]
+              SingleConstDeclaration(
+                NumConstDecl(
+                 jedan
+                 1
+                ) [NumConstDecl]
+              ) [SingleConstDeclaration]
+            ) [ConstDeclaration]
+          ) [ConstDeclarationPart]
+        ) [DecarationlList]
+        ConstDeclarationPart(
+          ConstDeclaration(
+            Type(
+             int
+            ) [Type]
+            SingleConstDeclaration(
+              NumConstDecl(
+               pet
+               5
+              ) [NumConstDecl]
+            ) [SingleConstDeclaration]
+          ) [ConstDeclaration]
+        ) [ConstDeclarationPart]
+      ) [DecarationlList]
+      VarDeclarationPart(
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+          SingleVarDeclaration(
+            VarDeclarationArray(
+             niz
+            ) [VarDeclarationArray]
+          ) [SingleVarDeclaration]
+        ) [VarDeclaration]
+      ) [VarDeclarationPart]
+    ) [DecarationlList]
+    VarDeclarationPart(
+      VarDeclaration(
+        Type(
+         char
+        ) [Type]
+        SingleVarDeclaration(
+          VarDeclarationArray(
+           nizch
+          ) [VarDeclarationArray]
+        ) [SingleVarDeclaration]
+      ) [VarDeclaration]
+    ) [VarDeclarationPart]
+  ) [DecarationlList]
+  SingleMethodDeclaration(
+    VoidMethodDeclaration(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormPars(
+      ) [NoFormPars]
+      YesVarDeclaration(
+        YesVarDeclaration(
+          YesVarDeclaration(
+            NoVarDeclaration(
+            ) [NoVarDeclaration]
+            VarDeclaration(
+              Type(
+               int
+              ) [Type]
+              SingleVarDeclaration(
+                VarDeclarationNoArray(
+                 bodovi
+                ) [VarDeclarationNoArray]
+              ) [SingleVarDeclaration]
+            ) [VarDeclaration]
+          ) [YesVarDeclaration]
+          VarDeclaration(
+            Type(
+             bool
+            ) [Type]
+            SingleVarDeclaration(
+              VarDeclarationNoArray(
+               bt
+              ) [VarDeclarationNoArray]
+            ) [SingleVarDeclaration]
+          ) [VarDeclaration]
+        ) [YesVarDeclaration]
+        VarDeclaration(
+          Type(
+           char
+          ) [Type]
+          SingleVarDeclaration(
+            VarDeclarationNoArray(
+             c
+            ) [VarDeclarationNoArray]
+          ) [SingleVarDeclaration]
+        ) [VarDeclaration]
+      ) [YesVarDeclaration]
+      YesStatementList(
+        YesStatementList(
+          NoStatement(
+          ) [NoStatement]
+          DesigStmt(
+            DesigExpr(
+              DesigNoArray(
+               bodovi
+              ) [DesigNoArray]
+              NoTernaryOperator(
+                MinusTerm(
+                  SingleFactor(
+                    NumConstFactor(
+                     1
+                    ) [NumConstFactor]
+                  ) [SingleFactor]
+                ) [MinusTerm]
+              ) [NoTernaryOperator]
+            ) [DesigExpr]
+          ) [DesigStmt]
+        ) [YesStatementList]
+        PrintExpr(
+          YesTernaryOperator(
+            OnlyTerm(
+              SingleFactor(
+                DesigNoParen(
+                  DesigNoArray(
+                   bodovi
+                  ) [DesigNoArray]
+                ) [DesigNoParen]
+              ) [SingleFactor]
+            ) [OnlyTerm]
+            OnlyTerm(
+              SingleFactor(
+                NumConstFactor(
+                 1
+                ) [NumConstFactor]
+              ) [SingleFactor]
+            ) [OnlyTerm]
+            OnlyTerm(
+              SingleFactor(
+                NumConstFactor(
+                 2
+                ) [NumConstFactor]
+              ) [SingleFactor]
+            ) [OnlyTerm]
+          ) [YesTernaryOperator]
+        ) [PrintExpr]
+      ) [YesStatementList]
+    ) [VoidMethodDeclaration]
+  ) [SingleMethodDeclaration]
+) [Program]
+INFO  13:57:32,738 - ===================================
+INFO  13:57:32,742 - global
+INFO  13:57:32,742 - Deklaracija num konstante nula na liniji 5
+INFO  13:57:32,742 - U tabelu simbola uneta konstanta: nula
+INFO  13:57:32,742 - global
+INFO  13:57:32,742 - Deklaracija num konstante jedan na liniji 6
+INFO  13:57:32,742 - U tabelu simbola uneta konstanta: jedan
+INFO  13:57:32,743 - global
+INFO  13:57:32,743 - Deklaracija num konstante pet na liniji 7
+INFO  13:57:32,743 - U tabelu simbola uneta konstanta: pet
+INFO  13:57:32,743 - global
+INFO  13:57:32,743 - Deklaracija niza niz na liniji 9
+INFO  13:57:32,743 - U tabelu simbola uneta promenljiva: niz
+INFO  13:57:32,743 - global
+INFO  13:57:32,743 - Deklaracija niza nizch na liniji 10
+INFO  13:57:32,743 - U tabelu simbola uneta promenljiva: nizch
+INFO  13:57:32,744 - Obradjuje se funkcija main na liniji 13
+INFO  13:57:32,744 - Deklaracija promenljive bodovi na liniji 14
+INFO  13:57:32,744 - U tabelu simbola uneta promenljiva: bodovi
+INFO  13:57:32,744 - Deklaracija promenljive bt na liniji 15
+INFO  13:57:32,744 - U tabelu simbola uneta promenljiva: bt
+INFO  13:57:32,744 - Deklaracija promenljive c na liniji 16
+INFO  13:57:32,744 - U tabelu simbola uneta promenljiva: c
+INFO  13:57:32,744 - Koristi se lokalna promenljiva bodovi na liniji 18
+INFO  13:57:32,745 - Koristi se lokalna promenljiva bodovi na liniji 19
+INFO  13:57:32,745 -  Print count calls = 1
+INFO  13:57:32,745 -  Deklarisanih promenljivih ima = 5
+INFO  13:57:32,745 - ===================================
+INFO  13:57:32,753 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,223 @@
+
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import org.apache.log4j.*;
+import rs.ac.bg.etf.pp1.ast.*;
+
+parser code {:
+
+	boolean errorDetected;
+	
+	Logger log = Logger.getLogger(getClass());
+   
+   
+    // slede redefinisani metodi za prijavu gresaka radi izmene teksta poruke
+     
+    public void report_fatal_error(String message, Object info) throws java.lang.Exception {
+      done_parsing();
+      report_error(message, info);
+    }
+  
+    public void syntax_error(Symbol cur_token) {
+        report_error("\nSintaksna greska", cur_token);
+    }
+  
+    public void unrecovered_syntax_error(Symbol cur_token) throws java.lang.Exception {
+        report_fatal_error("Fatalna greska, parsiranje se ne moze nastaviti", cur_token);
+    }
+
+    public void report_error(String message, Object info) {
+    	errorDetected = true;
+    	StringBuilder msg = new StringBuilder(message); 
+    	if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left);
+        log.error(msg.toString());
+    }
+
+
+:}
+
+init with {:
+	errorDetected = false;
+:}
+
+scan with {:
+	Symbol s = this.getScanner().next_token();
+	if (s != null && s.value != null) 
+		log.info(s.toString() + " " + s.value.toString());
+	return s;
+:}
+
+terminal PROG, READ, PRINT, NEW, CONST, VOID;
+terminal PLUS, MINUS, MUL, DIV, PROC, PLUSPLUS, MINUSMINUS;
+terminal EQUAL;
+terminal LBRACE, RBRACE, LBRACKET, RBRACKET, LPAREN, RPAREN, SEMI, COMMA;
+terminal COLON, QUESTION;
+
+terminal String IDENT;
+terminal String BOOL_CONST;
+terminal Character CHAR_CONST;
+terminal Integer NUM_CONST;
+
+nonterminal DeclList, DeclPart, MethodDeclList, ConstDecl, VarDecl, ConstDeclList, SingleConstDecl;
+nonterminal VarDeclList, SingleVarDecl, FormParsOptional, VarDeclOptional, StatementList;
+nonterminal FormPars, SingleFormParamDecl, Statement, DesignatorStatement;
+nonterminal Addop, Mulop;
+
+nonterminal rs.etf.pp1.symboltable.concepts.Obj ProgName, Program, MethodDecl, MethodTypeName, MethodVoidName, ArrayName, Designator;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Type, Expr, Term, Factor, NoTernaryOp;
+
+Program ::= (Program) PROG ProgName:p DeclList LBRACE MethodDeclList RBRACE;
+
+ProgName ::= (ProgName) IDENT:progName;
+
+DeclList ::= (DecarationlList) DeclList DeclPart
+			|
+			(NoDeclarations)
+			;
+					
+DeclPart ::= (ConstDeclarationPart) ConstDecl
+			|
+			(VarDeclarationPart) VarDecl
+			;
+				
+				
+ConstDecl ::= (ConstDeclaration) CONST Type ConstDeclList SEMI;
+
+ConstDeclList ::= (ConstDeclarationList) ConstDeclList COMMA SingleConstDecl
+				|
+				(SingleConstDeclaration) SingleConstDecl
+				;
+					
+SingleConstDecl ::= (NumConstDecl) IDENT:numConstName EQUAL NUM_CONST
+				|
+				(CharConstDecl) IDENT:charConstName EQUAL CHAR_CONST
+				|
+				(BoolConstDecl) IDENT:boolConstName EQUAL BOOL_CONST
+				;
+				
+VarDecl ::= (VarDeclaration) Type VarDeclList SEMI
+		|
+		(ErrorVarDeclaration) error SEMI:l
+		{: parser.report_error("ERROR!  Greska u definiciji promenljive, izvrsen oporavak do ; u liniji " + lleft, null);  :}
+		;
+
+VarDeclList ::= (VarDeclarationList) VarDeclList COMMA SingleVarDecl
+			|
+			(SingleVarDeclaration) SingleVarDecl
+			;
+				
+SingleVarDecl ::= (VarDeclarationNoArray) IDENT:varName
+				|
+				(VarDeclarationArray) IDENT:varArrayName LBRACKET RBRACKET
+				;
+
+MethodDeclList ::= (MethodDeclarationList) MethodDeclList MethodDecl
+				|
+				(SingleMethodDeclaration) MethodDecl
+				;
+
+MethodDecl ::= (TypeMethodDeclaration) MethodTypeName LPAREN FormParsOptional RPAREN VarDeclOptional LBRACE StatementList RBRACE
+			|
+			(VoidMethodDeclaration) VOID MethodVoidName LPAREN FormParsOptional RPAREN VarDeclOptional LBRACE StatementList RBRACE
+			;
+				
+MethodTypeName ::= (MethodTypeName) Type:retType IDENT:methodName;
+									
+MethodVoidName ::= (MethodVoidName) IDENT:methodName;
+									
+FormParsOptional ::= (YesFormPars) FormPars
+				|
+				(NoFormPars)
+				;
+
+FormPars ::= (FormParameters) FormPars COMMA SingleFormParamDecl
+			|
+			(SingleFormParameterDeclaration) SingleFormParamDecl
+			;
+			
+SingleFormParamDecl ::= (FormParameterArray) Type IDENT:formParamArrayName LBRACE RBRACE
+					|
+					(FormParameterNoArray) Type IDENT:formParamName
+					;
+					
+VarDeclOptional ::= (YesVarDeclaration) VarDeclOptional VarDecl
+				|
+				(NoVarDeclaration)
+				;	
+			
+StatementList ::= (YesStatementList) StatementList Statement 
+					| 
+					(NoStatement)
+					;
+
+Type ::= (Type) IDENT:typeName;
+
+Statement ::= (DesigStmt) DesignatorStatement SEMI 
+			|
+			(Read) READ LPAREN Designator RPAREN SEMI
+			|
+			(PrintExpr) PRINT LPAREN Expr RPAREN SEMI
+			|
+			(PrintExprNum) PRINT LPAREN Expr COMMA NUM_CONST RPAREN SEMI
+			;
+
+DesignatorStatement ::= (DesigExpr) Designator EQUAL Expr
+					|
+					(DesigPlusPlus) Designator PLUSPLUS
+					|
+					(DesigMinusMinus) Designator MINUSMINUS
+					|
+					(ErrorAssign) Designator EQUAL error SEMI:l
+		   			{: parser.report_error("ERROR! Greska pri dodeli, izvrsen oporavak do ; u liniji " + lleft, null);  :}
+					;
+
+Expr ::= (NoTernaryOperator) NoTernaryOp
+		|
+		(YesTernaryOperator) NoTernaryOp QUESTION NoTernaryOp COLON NoTernaryOp
+		; 
+
+NoTernaryOp ::= (ExprAddopTerm) NoTernaryOp Addop Term
+			|
+			(MinusTerm) MINUS Term
+			|
+			(OnlyTerm) Term
+			;
+				
+Term ::= (FactorList) Term Mulop Factor
+		|
+		(SingleFactor) Factor
+		;
+
+Factor ::= (NumConstFactor) NUM_CONST
+		|
+		(CharConstFactor) CHAR_CONST
+		|
+		(BoolConstFactor) BOOL_CONST
+		|
+		(NewArrayFactor) NEW Type LBRACKET Expr RBRACKET
+		|
+		(ExprFactor) LPAREN Expr RPAREN
+		|
+		(DesigNoParen) Designator
+		;
+			
+Designator ::= (DesigNoArray) IDENT:desigName
+			|
+			(DesigArray) ArrayName:desigArrayName LBRACKET Expr:exprInd RBRACKET
+			;
+			
+ArrayName ::= (ArrayName) IDENT:arrayName;
+		
+Addop ::= (PlusOperation) PLUS
+		|
+		(MinusOperation) MINUS
+		;	
+
+Mulop ::= (MulOperation) MUL
+		|
+		(DivOperation) DIV
+		|
+		(ProcOperation) PROC
+		;

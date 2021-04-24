@@ -1,0 +1,615 @@
+INFO  01:11:52,130 - Compiling source file: C:\Users\Luka\eclipse-workspace\ProjekatPP2021\test\program.mj
+INFO  01:11:52,192 - #2 program
+INFO  01:11:52,193 - #26 test301
+INFO  01:11:52,193 - #6 const
+INFO  01:11:52,195 - #26 int
+INFO  01:11:52,195 - #26 nula
+INFO  01:11:52,196 - #15 =
+INFO  01:11:52,196 - #29 0
+INFO  01:11:52,196 - #22 ;
+INFO  01:11:52,197 - #26 char
+INFO  01:11:52,197 - #26 nizch
+INFO  01:11:52,197 - #18 [
+INFO  01:11:52,197 - #19 ]
+INFO  01:11:52,198 - #23 ,
+INFO  01:11:52,198 - #26 chvar
+INFO  01:11:52,198 - #22 ;
+INFO  01:11:52,198 - #6 const
+INFO  01:11:52,199 - #26 int
+INFO  01:11:52,199 - #26 jedan
+INFO  01:11:52,199 - #15 =
+INFO  01:11:52,199 - #29 1
+INFO  01:11:52,200 - #23 ,
+INFO  01:11:52,202 - #26 dva
+INFO  01:11:52,202 - #15 =
+INFO  01:11:52,202 - #29 2
+INFO  01:11:52,202 - #22 ;
+INFO  01:11:52,203 - #26 int
+INFO  01:11:52,203 - #26 niz
+INFO  01:11:52,203 - #18 [
+INFO  01:11:52,203 - #19 ]
+INFO  01:11:52,203 - #22 ;
+INFO  01:11:52,203 - #6 const
+INFO  01:11:52,203 - #26 char
+INFO  01:11:52,203 - #26 ch
+INFO  01:11:52,204 - #15 =
+INFO  01:11:52,204 - #28 c
+INFO  01:11:52,204 - #22 ;
+INFO  01:11:52,204 - #6 const
+INFO  01:11:52,204 - #26 int
+INFO  01:11:52,205 - #26 pet
+INFO  01:11:52,205 - #15 =
+INFO  01:11:52,205 - #29 5
+INFO  01:11:52,205 - #22 ;
+INFO  01:11:52,206 - #6 const
+INFO  01:11:52,206 - #26 bool
+INFO  01:11:52,206 - #26 b
+INFO  01:11:52,206 - #15 =
+INFO  01:11:52,206 - #27 true
+INFO  01:11:52,206 - #22 ;
+INFO  01:11:52,207 - #26 bool
+INFO  01:11:52,207 - #26 bvar
+INFO  01:11:52,207 - #22 ;
+INFO  01:11:52,207 - #26 int
+INFO  01:11:52,208 - #26 nvar
+INFO  01:11:52,208 - #22 ;
+INFO  01:11:52,208 - #16 {
+INFO  01:11:52,209 - #7 void
+INFO  01:11:52,209 - #26 main
+INFO  01:11:52,209 - #20 (
+INFO  01:11:52,211 - #21 )
+INFO  01:11:52,212 - #26 int
+INFO  01:11:52,213 - #26 broj
+INFO  01:11:52,213 - #22 ;
+INFO  01:11:52,213 - #26 bool
+INFO  01:11:52,213 - #26 bt
+INFO  01:11:52,213 - #22 ;
+INFO  01:11:52,213 - #26 char
+INFO  01:11:52,214 - #26 ct
+INFO  01:11:52,214 - #22 ;
+INFO  01:11:52,217 - #16 {
+INFO  01:11:52,218 - #26 nvar
+INFO  01:11:52,218 - #15 =
+INFO  01:11:52,219 - #29 2
+INFO  01:11:52,219 - #8 +
+INFO  01:11:52,219 - #26 dva
+INFO  01:11:52,221 - #22 ;
+INFO  01:11:52,222 - #26 broj
+INFO  01:11:52,223 - #15 =
+INFO  01:11:52,223 - #29 3
+INFO  01:11:52,223 - #22 ;
+INFO  01:11:52,223 - #26 niz
+INFO  01:11:52,223 - #15 =
+INFO  01:11:52,223 - #5 new
+INFO  01:11:52,224 - #26 int
+INFO  01:11:52,224 - #18 [
+INFO  01:11:52,224 - #26 broj
+INFO  01:11:52,224 - #19 ]
+INFO  01:11:52,224 - #22 ;
+INFO  01:11:52,225 - #26 niz
+INFO  01:11:52,226 - #18 [
+INFO  01:11:52,227 - #29 0
+INFO  01:11:52,227 - #19 ]
+INFO  01:11:52,228 - #15 =
+INFO  01:11:52,228 - #29 0
+INFO  01:11:52,228 - #22 ;
+INFO  01:11:52,229 - #26 niz
+INFO  01:11:52,229 - #18 [
+INFO  01:11:52,229 - #29 1
+INFO  01:11:52,229 - #19 ]
+INFO  01:11:52,229 - #15 =
+INFO  01:11:52,229 - #26 jedan
+INFO  01:11:52,231 - #22 ;
+INFO  01:11:52,232 - #26 niz
+INFO  01:11:52,232 - #18 [
+INFO  01:11:52,232 - #26 dva
+INFO  01:11:52,232 - #19 ]
+INFO  01:11:52,233 - #15 =
+INFO  01:11:52,233 - #26 dva
+INFO  01:11:52,234 - #22 ;
+INFO  01:11:52,234 - #26 niz
+INFO  01:11:52,234 - #18 [
+INFO  01:11:52,234 - #29 2
+INFO  01:11:52,234 - #19 ]
+INFO  01:11:52,234 - #14 --
+INFO  01:11:52,234 - #22 ;
+INFO  01:11:52,235 - #4 print
+INFO  01:11:52,235 - #20 (
+INFO  01:11:52,235 - #26 niz
+INFO  01:11:52,235 - #18 [
+INFO  01:11:52,235 - #26 dva
+INFO  01:11:52,235 - #9 -
+INFO  01:11:52,235 - #26 jedan
+INFO  01:11:52,237 - #19 ]
+INFO  01:11:52,237 - #21 )
+INFO  01:11:52,237 - #22 ;
+INFO  01:11:52,237 - #17 }
+INFO  01:11:52,237 - #17 }
+INFO  01:11:52,253 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DecarationlList(
+    DecarationlList(
+      DecarationlList(
+        DecarationlList(
+          DecarationlList(
+            DecarationlList(
+              DecarationlList(
+                DecarationlList(
+                  DecarationlList(
+                    NoDeclarations(
+                    ) [NoDeclarations]
+                    ConstDeclarationPart(
+                      ConstDeclaration(
+                        Type(
+                         int
+                        ) [Type]
+                        SingleConstDeclaration(
+                          NumConstDecl(
+                           nula
+                           0
+                          ) [NumConstDecl]
+                        ) [SingleConstDeclaration]
+                      ) [ConstDeclaration]
+                    ) [ConstDeclarationPart]
+                  ) [DecarationlList]
+                  VarDeclarationPart(
+                    VarDeclaration(
+                      Type(
+                       char
+                      ) [Type]
+                      VarDeclarationList(
+                        SingleVarDeclaration(
+                          VarDeclarationArray(
+                           nizch
+                          ) [VarDeclarationArray]
+                        ) [SingleVarDeclaration]
+                        VarDeclarationNoArray(
+                         chvar
+                        ) [VarDeclarationNoArray]
+                      ) [VarDeclarationList]
+                    ) [VarDeclaration]
+                  ) [VarDeclarationPart]
+                ) [DecarationlList]
+                ConstDeclarationPart(
+                  ConstDeclaration(
+                    Type(
+                     int
+                    ) [Type]
+                    ConstDeclarationList(
+                      SingleConstDeclaration(
+                        NumConstDecl(
+                         jedan
+                         1
+                        ) [NumConstDecl]
+                      ) [SingleConstDeclaration]
+                      NumConstDecl(
+                       dva
+                       2
+                      ) [NumConstDecl]
+                    ) [ConstDeclarationList]
+                  ) [ConstDeclaration]
+                ) [ConstDeclarationPart]
+              ) [DecarationlList]
+              VarDeclarationPart(
+                VarDeclaration(
+                  Type(
+                   int
+                  ) [Type]
+                  SingleVarDeclaration(
+                    VarDeclarationArray(
+                     niz
+                    ) [VarDeclarationArray]
+                  ) [SingleVarDeclaration]
+                ) [VarDeclaration]
+              ) [VarDeclarationPart]
+            ) [DecarationlList]
+            ConstDeclarationPart(
+              ConstDeclaration(
+                Type(
+                 char
+                ) [Type]
+                SingleConstDeclaration(
+                  CharConstDecl(
+                   ch
+                   c
+                  ) [CharConstDecl]
+                ) [SingleConstDeclaration]
+              ) [ConstDeclaration]
+            ) [ConstDeclarationPart]
+          ) [DecarationlList]
+          ConstDeclarationPart(
+            ConstDeclaration(
+              Type(
+               int
+              ) [Type]
+              SingleConstDeclaration(
+                NumConstDecl(
+                 pet
+                 5
+                ) [NumConstDecl]
+              ) [SingleConstDeclaration]
+            ) [ConstDeclaration]
+          ) [ConstDeclarationPart]
+        ) [DecarationlList]
+        ConstDeclarationPart(
+          ConstDeclaration(
+            Type(
+             bool
+            ) [Type]
+            SingleConstDeclaration(
+              BoolConstDecl(
+               b
+               true
+              ) [BoolConstDecl]
+            ) [SingleConstDeclaration]
+          ) [ConstDeclaration]
+        ) [ConstDeclarationPart]
+      ) [DecarationlList]
+      VarDeclarationPart(
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+          SingleVarDeclaration(
+            VarDeclarationNoArray(
+             bvar
+            ) [VarDeclarationNoArray]
+          ) [SingleVarDeclaration]
+        ) [VarDeclaration]
+      ) [VarDeclarationPart]
+    ) [DecarationlList]
+    VarDeclarationPart(
+      VarDeclaration(
+        Type(
+         int
+        ) [Type]
+        SingleVarDeclaration(
+          VarDeclarationNoArray(
+           nvar
+          ) [VarDeclarationNoArray]
+        ) [SingleVarDeclaration]
+      ) [VarDeclaration]
+    ) [VarDeclarationPart]
+  ) [DecarationlList]
+  SingleMethodDeclaration(
+    VoidMethodDeclaration(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormPars(
+      ) [NoFormPars]
+      YesVarDeclaration(
+        YesVarDeclaration(
+          YesVarDeclaration(
+            NoVarDeclaration(
+            ) [NoVarDeclaration]
+            VarDeclaration(
+              Type(
+               int
+              ) [Type]
+              SingleVarDeclaration(
+                VarDeclarationNoArray(
+                 broj
+                ) [VarDeclarationNoArray]
+              ) [SingleVarDeclaration]
+            ) [VarDeclaration]
+          ) [YesVarDeclaration]
+          VarDeclaration(
+            Type(
+             bool
+            ) [Type]
+            SingleVarDeclaration(
+              VarDeclarationNoArray(
+               bt
+              ) [VarDeclarationNoArray]
+            ) [SingleVarDeclaration]
+          ) [VarDeclaration]
+        ) [YesVarDeclaration]
+        VarDeclaration(
+          Type(
+           char
+          ) [Type]
+          SingleVarDeclaration(
+            VarDeclarationNoArray(
+             ct
+            ) [VarDeclarationNoArray]
+          ) [SingleVarDeclaration]
+        ) [VarDeclaration]
+      ) [YesVarDeclaration]
+      YesStatementList(
+        YesStatementList(
+          YesStatementList(
+            YesStatementList(
+              YesStatementList(
+                YesStatementList(
+                  YesStatementList(
+                    YesStatementList(
+                      NoStatement(
+                      ) [NoStatement]
+                      DesigStmt(
+                        DesigExpr(
+                          DesigNoArray(
+                           nvar
+                          ) [DesigNoArray]
+                          NoTernaryOperator(
+                            ExprAddopTerm(
+                              OnlyTerm(
+                                SingleFactor(
+                                  NumConstFactor(
+                                   2
+                                  ) [NumConstFactor]
+                                ) [SingleFactor]
+                              ) [OnlyTerm]
+                              PlusOperation(
+                              ) [PlusOperation]
+                              SingleFactor(
+                                DesigNoParen(
+                                  DesigNoArray(
+                                   dva
+                                  ) [DesigNoArray]
+                                ) [DesigNoParen]
+                              ) [SingleFactor]
+                            ) [ExprAddopTerm]
+                          ) [NoTernaryOperator]
+                        ) [DesigExpr]
+                      ) [DesigStmt]
+                    ) [YesStatementList]
+                    DesigStmt(
+                      DesigExpr(
+                        DesigNoArray(
+                         broj
+                        ) [DesigNoArray]
+                        NoTernaryOperator(
+                          OnlyTerm(
+                            SingleFactor(
+                              NumConstFactor(
+                               3
+                              ) [NumConstFactor]
+                            ) [SingleFactor]
+                          ) [OnlyTerm]
+                        ) [NoTernaryOperator]
+                      ) [DesigExpr]
+                    ) [DesigStmt]
+                  ) [YesStatementList]
+                  DesigStmt(
+                    DesigExpr(
+                      DesigNoArray(
+                       niz
+                      ) [DesigNoArray]
+                      NoTernaryOperator(
+                        OnlyTerm(
+                          SingleFactor(
+                            NewArrayFactor(
+                              Type(
+                               int
+                              ) [Type]
+                              NoTernaryOperator(
+                                OnlyTerm(
+                                  SingleFactor(
+                                    DesigNoParen(
+                                      DesigNoArray(
+                                       broj
+                                      ) [DesigNoArray]
+                                    ) [DesigNoParen]
+                                  ) [SingleFactor]
+                                ) [OnlyTerm]
+                              ) [NoTernaryOperator]
+                            ) [NewArrayFactor]
+                          ) [SingleFactor]
+                        ) [OnlyTerm]
+                      ) [NoTernaryOperator]
+                    ) [DesigExpr]
+                  ) [DesigStmt]
+                ) [YesStatementList]
+                DesigStmt(
+                  DesigExpr(
+                    DesigArray(
+                      ArrayName(
+                       niz
+                      ) [ArrayName]
+                      NoTernaryOperator(
+                        OnlyTerm(
+                          SingleFactor(
+                            NumConstFactor(
+                             0
+                            ) [NumConstFactor]
+                          ) [SingleFactor]
+                        ) [OnlyTerm]
+                      ) [NoTernaryOperator]
+                    ) [DesigArray]
+                    NoTernaryOperator(
+                      OnlyTerm(
+                        SingleFactor(
+                          NumConstFactor(
+                           0
+                          ) [NumConstFactor]
+                        ) [SingleFactor]
+                      ) [OnlyTerm]
+                    ) [NoTernaryOperator]
+                  ) [DesigExpr]
+                ) [DesigStmt]
+              ) [YesStatementList]
+              DesigStmt(
+                DesigExpr(
+                  DesigArray(
+                    ArrayName(
+                     niz
+                    ) [ArrayName]
+                    NoTernaryOperator(
+                      OnlyTerm(
+                        SingleFactor(
+                          NumConstFactor(
+                           1
+                          ) [NumConstFactor]
+                        ) [SingleFactor]
+                      ) [OnlyTerm]
+                    ) [NoTernaryOperator]
+                  ) [DesigArray]
+                  NoTernaryOperator(
+                    OnlyTerm(
+                      SingleFactor(
+                        DesigNoParen(
+                          DesigNoArray(
+                           jedan
+                          ) [DesigNoArray]
+                        ) [DesigNoParen]
+                      ) [SingleFactor]
+                    ) [OnlyTerm]
+                  ) [NoTernaryOperator]
+                ) [DesigExpr]
+              ) [DesigStmt]
+            ) [YesStatementList]
+            DesigStmt(
+              DesigExpr(
+                DesigArray(
+                  ArrayName(
+                   niz
+                  ) [ArrayName]
+                  NoTernaryOperator(
+                    OnlyTerm(
+                      SingleFactor(
+                        DesigNoParen(
+                          DesigNoArray(
+                           dva
+                          ) [DesigNoArray]
+                        ) [DesigNoParen]
+                      ) [SingleFactor]
+                    ) [OnlyTerm]
+                  ) [NoTernaryOperator]
+                ) [DesigArray]
+                NoTernaryOperator(
+                  OnlyTerm(
+                    SingleFactor(
+                      DesigNoParen(
+                        DesigNoArray(
+                         dva
+                        ) [DesigNoArray]
+                      ) [DesigNoParen]
+                    ) [SingleFactor]
+                  ) [OnlyTerm]
+                ) [NoTernaryOperator]
+              ) [DesigExpr]
+            ) [DesigStmt]
+          ) [YesStatementList]
+          DesigStmt(
+            DesigMinusMinus(
+              DesigArray(
+                ArrayName(
+                 niz
+                ) [ArrayName]
+                NoTernaryOperator(
+                  OnlyTerm(
+                    SingleFactor(
+                      NumConstFactor(
+                       2
+                      ) [NumConstFactor]
+                    ) [SingleFactor]
+                  ) [OnlyTerm]
+                ) [NoTernaryOperator]
+              ) [DesigArray]
+            ) [DesigMinusMinus]
+          ) [DesigStmt]
+        ) [YesStatementList]
+        PrintExpr(
+          NoTernaryOperator(
+            OnlyTerm(
+              SingleFactor(
+                DesigNoParen(
+                  DesigArray(
+                    ArrayName(
+                     niz
+                    ) [ArrayName]
+                    NoTernaryOperator(
+                      ExprAddopTerm(
+                        OnlyTerm(
+                          SingleFactor(
+                            DesigNoParen(
+                              DesigNoArray(
+                               dva
+                              ) [DesigNoArray]
+                            ) [DesigNoParen]
+                          ) [SingleFactor]
+                        ) [OnlyTerm]
+                        MinusOperation(
+                        ) [MinusOperation]
+                        SingleFactor(
+                          DesigNoParen(
+                            DesigNoArray(
+                             jedan
+                            ) [DesigNoArray]
+                          ) [DesigNoParen]
+                        ) [SingleFactor]
+                      ) [ExprAddopTerm]
+                    ) [NoTernaryOperator]
+                  ) [DesigArray]
+                ) [DesigNoParen]
+              ) [SingleFactor]
+            ) [OnlyTerm]
+          ) [NoTernaryOperator]
+        ) [PrintExpr]
+      ) [YesStatementList]
+    ) [VoidMethodDeclaration]
+  ) [SingleMethodDeclaration]
+) [Program]
+INFO  01:11:52,254 - ===================================
+INFO  01:11:52,259 - global
+INFO  01:11:52,259 - Deklaracija num konstante nula na liniji 5
+INFO  01:11:52,260 - U tabelu simbola uneta konstanta: nula
+INFO  01:11:52,260 - global
+INFO  01:11:52,260 - Deklaracija niza nizch na liniji 6
+INFO  01:11:52,260 - U tabelu simbola uneta promenljiva: nizch
+INFO  01:11:52,260 - global
+INFO  01:11:52,260 - Deklaracija promenljive chvar na liniji 6
+INFO  01:11:52,260 - U tabelu simbola uneta promenljiva: chvar
+INFO  01:11:52,260 - global
+INFO  01:11:52,260 - Deklaracija num konstante jedan na liniji 7
+INFO  01:11:52,260 - U tabelu simbola uneta konstanta: jedan
+INFO  01:11:52,260 - global
+INFO  01:11:52,260 - Deklaracija num konstante dva na liniji 7
+INFO  01:11:52,261 - U tabelu simbola uneta konstanta: dva
+INFO  01:11:52,261 - global
+INFO  01:11:52,261 - Deklaracija niza niz na liniji 8
+INFO  01:11:52,261 - U tabelu simbola uneta promenljiva: niz
+INFO  01:11:52,261 - global
+INFO  01:11:52,261 - Deklaracija char konstante ch na liniji 9
+INFO  01:11:52,261 - U tabelu simbola uneta konstanta: ch
+INFO  01:11:52,261 - global
+INFO  01:11:52,261 - Deklaracija num konstante pet na liniji 10
+INFO  01:11:52,261 - U tabelu simbola uneta konstanta: pet
+INFO  01:11:52,261 - global
+INFO  01:11:52,261 - Deklaracija bool konstante b na liniji 11
+INFO  01:11:52,261 - U tabelu simbola uneta konstanta: b
+INFO  01:11:52,262 - global
+INFO  01:11:52,262 - Deklaracija promenljive bvar na liniji 12
+INFO  01:11:52,262 - U tabelu simbola uneta promenljiva: bvar
+INFO  01:11:52,262 - global
+INFO  01:11:52,262 - Deklaracija promenljive nvar na liniji 13
+INFO  01:11:52,262 - U tabelu simbola uneta promenljiva: nvar
+INFO  01:11:52,262 - Obradjuje se funkcija main na liniji 16
+INFO  01:11:52,262 - Deklaracija promenljive broj na liniji 17
+INFO  01:11:52,262 - U tabelu simbola uneta promenljiva: broj
+INFO  01:11:52,262 - Deklaracija promenljive bt na liniji 18
+INFO  01:11:52,262 - U tabelu simbola uneta promenljiva: bt
+INFO  01:11:52,262 - Deklaracija promenljive ct na liniji 19
+INFO  01:11:52,262 - U tabelu simbola uneta promenljiva: ct
+INFO  01:11:52,262 - Koristi se globalna promenljiva nvar na liniji 21
+INFO  01:11:52,262 - Koristi se simbolicka konstanta dva na liniji 21
+INFO  01:11:52,263 - Koristi se lokalna promenljiva broj na liniji 22
+INFO  01:11:52,263 - Koristi se globalna promenljiva niz na liniji 23
+INFO  01:11:52,263 - Koristi se lokalna promenljiva broj na liniji 23
+INFO  01:11:52,263 - Koristi se globalna promenljiva(niz) niz na liniji 24
+INFO  01:11:52,263 - Koristi se globalna promenljiva(niz) niz na liniji 25
+INFO  01:11:52,264 - Koristi se simbolicka konstanta jedan na liniji 25
+INFO  01:11:52,264 - Koristi se globalna promenljiva(niz) niz na liniji 26
+INFO  01:11:52,264 - Koristi se simbolicka konstanta dva na liniji 26
+INFO  01:11:52,264 - Koristi se simbolicka konstanta dva na liniji 26
+INFO  01:11:52,264 - Koristi se globalna promenljiva(niz) niz na liniji 27
+INFO  01:11:52,264 - Koristi se globalna promenljiva(niz) niz na liniji 31
+INFO  01:11:52,264 - Koristi se simbolicka konstanta dva na liniji 31
+INFO  01:11:52,264 - Koristi se simbolicka konstanta jedan na liniji 31
+INFO  01:11:52,265 -  Print count calls = 1
+INFO  01:11:52,265 -  Deklarisanih promenljivih ima = 8
+INFO  01:11:52,265 - ===================================
+INFO  01:11:52,279 - Parsiranje uspesno zavrseno!

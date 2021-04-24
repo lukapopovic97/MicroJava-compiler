@@ -1,0 +1,1255 @@
+INFO  21:52:26,635 - Compiling source file: C:\Users\Luka\eclipse-workspace\ProjekatPP2021\test\program.mj
+INFO  21:52:26,677 - #2 program
+INFO  21:52:26,677 - #32 test301
+INFO  21:52:26,677 - #6 const
+INFO  21:52:26,679 - #32 int
+INFO  21:52:26,679 - #32 nula
+INFO  21:52:26,680 - #15 =
+INFO  21:52:26,680 - #35 0
+INFO  21:52:26,680 - #22 ;
+INFO  21:52:26,680 - #6 const
+INFO  21:52:26,681 - #32 int
+INFO  21:52:26,681 - #32 jedan
+INFO  21:52:26,681 - #15 =
+INFO  21:52:26,681 - #35 1
+INFO  21:52:26,681 - #22 ;
+INFO  21:52:26,681 - #6 const
+INFO  21:52:26,681 - #32 int
+INFO  21:52:26,681 - #32 pet
+INFO  21:52:26,681 - #15 =
+INFO  21:52:26,681 - #35 5
+INFO  21:52:26,682 - #22 ;
+INFO  21:52:26,682 - #32 int
+INFO  21:52:26,682 - #32 niz
+INFO  21:52:26,682 - #18 [
+INFO  21:52:26,682 - #19 ]
+INFO  21:52:26,682 - #22 ;
+INFO  21:52:26,683 - #32 char
+INFO  21:52:26,683 - #32 nizch
+INFO  21:52:26,683 - #18 [
+INFO  21:52:26,683 - #19 ]
+INFO  21:52:26,683 - #22 ;
+INFO  21:52:26,683 - #16 {
+INFO  21:52:26,683 - #7 void
+INFO  21:52:26,683 - #32 main
+INFO  21:52:26,684 - #20 (
+INFO  21:52:26,684 - #21 )
+INFO  21:52:26,685 - #32 int
+INFO  21:52:26,686 - #32 bodovi
+INFO  21:52:26,686 - #22 ;
+INFO  21:52:26,686 - #32 bool
+INFO  21:52:26,686 - #32 bt
+INFO  21:52:26,686 - #22 ;
+INFO  21:52:26,686 - #16 {
+INFO  21:52:26,686 - #32 bodovi
+INFO  21:52:26,687 - #15 =
+INFO  21:52:26,687 - #35 0
+INFO  21:52:26,687 - #22 ;
+INFO  21:52:26,688 - #32 bodovi
+INFO  21:52:26,688 - #13 ++
+INFO  21:52:26,688 - #22 ;
+INFO  21:52:26,690 - #32 bodovi
+INFO  21:52:26,690 - #15 =
+INFO  21:52:26,690 - #32 bodovi
+INFO  21:52:26,690 - #8 +
+INFO  21:52:26,691 - #32 jedan
+INFO  21:52:26,692 - #22 ;
+INFO  21:52:26,693 - #32 bodovi
+INFO  21:52:26,694 - #15 =
+INFO  21:52:26,694 - #32 bodovi
+INFO  21:52:26,694 - #10 *
+INFO  21:52:26,694 - #32 pet
+INFO  21:52:26,696 - #22 ;
+INFO  21:52:26,697 - #32 bodovi
+INFO  21:52:26,697 - #14 --
+INFO  21:52:26,697 - #22 ;
+INFO  21:52:26,698 - #4 print
+INFO  21:52:26,698 - #20 (
+INFO  21:52:26,698 - #32 bodovi
+INFO  21:52:26,698 - #21 )
+INFO  21:52:26,702 - #22 ;
+INFO  21:52:26,702 - #32 niz
+INFO  21:52:26,702 - #15 =
+INFO  21:52:26,702 - #5 new
+INFO  21:52:26,703 - #32 int
+INFO  21:52:26,703 - #18 [
+INFO  21:52:26,703 - #35 3
+INFO  21:52:26,703 - #19 ]
+INFO  21:52:26,703 - #22 ;
+INFO  21:52:26,703 - #32 niz
+INFO  21:52:26,703 - #18 [
+INFO  21:52:26,704 - #32 nula
+INFO  21:52:26,704 - #19 ]
+INFO  21:52:26,705 - #15 =
+INFO  21:52:26,705 - #32 jedan
+INFO  21:52:26,705 - #22 ;
+INFO  21:52:26,705 - #32 niz
+INFO  21:52:26,705 - #18 [
+INFO  21:52:26,706 - #35 1
+INFO  21:52:26,706 - #19 ]
+INFO  21:52:26,706 - #15 =
+INFO  21:52:26,706 - #35 2
+INFO  21:52:26,706 - #22 ;
+INFO  21:52:26,707 - #32 niz
+INFO  21:52:26,707 - #18 [
+INFO  21:52:26,707 - #32 niz
+INFO  21:52:26,707 - #18 [
+INFO  21:52:26,707 - #32 jedan
+INFO  21:52:26,707 - #19 ]
+INFO  21:52:26,707 - #19 ]
+INFO  21:52:26,707 - #15 =
+INFO  21:52:26,708 - #32 niz
+INFO  21:52:26,708 - #18 [
+INFO  21:52:26,708 - #32 niz
+INFO  21:52:26,708 - #18 [
+INFO  21:52:26,708 - #35 0
+INFO  21:52:26,708 - #19 ]
+INFO  21:52:26,708 - #19 ]
+INFO  21:52:26,709 - #10 *
+INFO  21:52:26,709 - #35 3
+INFO  21:52:26,709 - #8 +
+INFO  21:52:26,709 - #35 2
+INFO  21:52:26,709 - #22 ;
+INFO  21:52:26,709 - #32 bodovi
+INFO  21:52:26,709 - #15 =
+INFO  21:52:26,709 - #32 niz
+INFO  21:52:26,709 - #18 [
+INFO  21:52:26,710 - #35 2
+INFO  21:52:26,710 - #19 ]
+INFO  21:52:26,710 - #11 /
+INFO  21:52:26,710 - #32 niz
+INFO  21:52:26,711 - #18 [
+INFO  21:52:26,711 - #35 0
+INFO  21:52:26,711 - #19 ]
+INFO  21:52:26,711 - #8 +
+INFO  21:52:26,712 - #35 2
+INFO  21:52:26,712 - #22 ;
+INFO  21:52:26,712 - #4 print
+INFO  21:52:26,712 - #20 (
+INFO  21:52:26,712 - #32 bodovi
+INFO  21:52:26,712 - #21 )
+INFO  21:52:26,712 - #22 ;
+INFO  21:52:26,712 - #4 print
+INFO  21:52:26,712 - #20 (
+INFO  21:52:26,713 - #32 niz
+INFO  21:52:26,713 - #18 [
+INFO  21:52:26,713 - #35 2
+INFO  21:52:26,713 - #19 ]
+INFO  21:52:26,713 - #21 )
+INFO  21:52:26,713 - #22 ;
+INFO  21:52:26,713 - #32 nizch
+INFO  21:52:26,713 - #15 =
+INFO  21:52:26,714 - #5 new
+INFO  21:52:26,714 - #32 char
+INFO  21:52:26,714 - #18 [
+INFO  21:52:26,714 - #35 3
+INFO  21:52:26,714 - #19 ]
+INFO  21:52:26,714 - #22 ;
+INFO  21:52:26,714 - #32 nizch
+INFO  21:52:26,714 - #18 [
+INFO  21:52:26,714 - #35 0
+INFO  21:52:26,714 - #19 ]
+INFO  21:52:26,715 - #15 =
+INFO  21:52:26,715 - #34 a
+INFO  21:52:26,715 - #22 ;
+INFO  21:52:26,715 - #32 nizch
+INFO  21:52:26,715 - #18 [
+INFO  21:52:26,715 - #32 jedan
+INFO  21:52:26,715 - #19 ]
+INFO  21:52:26,715 - #15 =
+INFO  21:52:26,716 - #34 b
+INFO  21:52:26,716 - #22 ;
+INFO  21:52:26,716 - #32 nizch
+INFO  21:52:26,716 - #18 [
+INFO  21:52:26,716 - #32 pet
+INFO  21:52:26,716 - #9 -
+INFO  21:52:26,716 - #35 3
+INFO  21:52:26,717 - #19 ]
+INFO  21:52:26,717 - #15 =
+INFO  21:52:26,717 - #34 c
+INFO  21:52:26,717 - #22 ;
+INFO  21:52:26,717 - #4 print
+INFO  21:52:26,718 - #20 (
+INFO  21:52:26,718 - #32 nizch
+INFO  21:52:26,718 - #18 [
+INFO  21:52:26,718 - #35 1
+INFO  21:52:26,718 - #19 ]
+INFO  21:52:26,718 - #21 )
+INFO  21:52:26,718 - #22 ;
+INFO  21:52:26,719 - #4 print
+INFO  21:52:26,719 - #20 (
+INFO  21:52:26,719 - #32 nizch
+INFO  21:52:26,719 - #18 [
+INFO  21:52:26,719 - #32 jedan
+INFO  21:52:26,719 - #10 *
+INFO  21:52:26,720 - #35 2
+INFO  21:52:26,720 - #19 ]
+INFO  21:52:26,720 - #21 )
+INFO  21:52:26,720 - #22 ;
+INFO  21:52:26,720 - #32 bodovi
+INFO  21:52:26,720 - #15 =
+INFO  21:52:26,721 - #32 bodovi
+INFO  21:52:26,721 - #8 +
+INFO  21:52:26,721 - #20 (
+INFO  21:52:26,721 - #32 pet
+INFO  21:52:26,721 - #10 *
+INFO  21:52:26,721 - #32 jedan
+INFO  21:52:26,721 - #9 -
+INFO  21:52:26,722 - #35 1
+INFO  21:52:26,722 - #21 )
+INFO  21:52:26,722 - #10 *
+INFO  21:52:26,722 - #32 bodovi
+INFO  21:52:26,722 - #9 -
+INFO  21:52:26,722 - #20 (
+INFO  21:52:26,722 - #35 3
+INFO  21:52:26,722 - #12 %
+INFO  21:52:26,722 - #35 2
+INFO  21:52:26,723 - #8 +
+INFO  21:52:26,723 - #35 3
+INFO  21:52:26,724 - #10 *
+INFO  21:52:26,724 - #35 2
+INFO  21:52:26,724 - #9 -
+INFO  21:52:26,724 - #35 3
+INFO  21:52:26,724 - #21 )
+INFO  21:52:26,724 - #22 ;
+INFO  21:52:26,724 - #4 print
+INFO  21:52:26,724 - #20 (
+INFO  21:52:26,725 - #32 bodovi
+INFO  21:52:26,725 - #21 )
+INFO  21:52:26,725 - #22 ;
+INFO  21:52:26,725 - #32 bt
+INFO  21:52:26,725 - #15 =
+INFO  21:52:26,725 - #33 true
+INFO  21:52:26,725 - #22 ;
+INFO  21:52:26,725 - #4 print
+INFO  21:52:26,725 - #20 (
+INFO  21:52:26,725 - #32 bt
+INFO  21:52:26,726 - #25 ?
+INFO  21:52:26,726 - #32 bodovi
+INFO  21:52:26,726 - #24 :
+INFO  21:52:26,726 - #32 bodovi
+INFO  21:52:26,726 - #8 +
+INFO  21:52:26,726 - #35 10
+INFO  21:52:26,726 - #21 )
+INFO  21:52:26,726 - #22 ;
+INFO  21:52:26,728 - #4 print
+INFO  21:52:26,728 - #20 (
+INFO  21:52:26,728 - #33 false
+INFO  21:52:26,728 - #25 ?
+INFO  21:52:26,728 - #32 bodovi
+INFO  21:52:26,728 - #8 +
+INFO  21:52:26,728 - #35 20
+INFO  21:52:26,728 - #24 :
+INFO  21:52:26,729 - #32 bodovi
+INFO  21:52:26,729 - #8 +
+INFO  21:52:26,729 - #35 30
+INFO  21:52:26,729 - #21 )
+INFO  21:52:26,729 - #22 ;
+INFO  21:52:26,729 - #17 }
+INFO  21:52:26,729 - #17 }
+INFO  21:52:26,749 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DecarationlList(
+    DecarationlList(
+      DecarationlList(
+        DecarationlList(
+          DecarationlList(
+            NoDeclarations(
+            ) [NoDeclarations]
+            ConstDeclarationPart(
+              ConstDeclaration(
+                Type(
+                 int
+                ) [Type]
+                SingleConstDeclaration(
+                  NumConstDecl(
+                   nula
+                   0
+                  ) [NumConstDecl]
+                ) [SingleConstDeclaration]
+              ) [ConstDeclaration]
+            ) [ConstDeclarationPart]
+          ) [DecarationlList]
+          ConstDeclarationPart(
+            ConstDeclaration(
+              Type(
+               int
+              ) [Type]
+              SingleConstDeclaration(
+                NumConstDecl(
+                 jedan
+                 1
+                ) [NumConstDecl]
+              ) [SingleConstDeclaration]
+            ) [ConstDeclaration]
+          ) [ConstDeclarationPart]
+        ) [DecarationlList]
+        ConstDeclarationPart(
+          ConstDeclaration(
+            Type(
+             int
+            ) [Type]
+            SingleConstDeclaration(
+              NumConstDecl(
+               pet
+               5
+              ) [NumConstDecl]
+            ) [SingleConstDeclaration]
+          ) [ConstDeclaration]
+        ) [ConstDeclarationPart]
+      ) [DecarationlList]
+      VarDeclarationPart(
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+          SingleVarDeclaration(
+            VarDeclarationArray(
+             niz
+            ) [VarDeclarationArray]
+          ) [SingleVarDeclaration]
+        ) [VarDeclaration]
+      ) [VarDeclarationPart]
+    ) [DecarationlList]
+    VarDeclarationPart(
+      VarDeclaration(
+        Type(
+         char
+        ) [Type]
+        SingleVarDeclaration(
+          VarDeclarationArray(
+           nizch
+          ) [VarDeclarationArray]
+        ) [SingleVarDeclaration]
+      ) [VarDeclaration]
+    ) [VarDeclarationPart]
+  ) [DecarationlList]
+  SingleMethodDeclaration(
+    VoidMethodDeclaration(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormPars(
+      ) [NoFormPars]
+      YesVarDeclaration(
+        YesVarDeclaration(
+          NoVarDeclaration(
+          ) [NoVarDeclaration]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+            SingleVarDeclaration(
+              VarDeclarationNoArray(
+               bodovi
+              ) [VarDeclarationNoArray]
+            ) [SingleVarDeclaration]
+          ) [VarDeclaration]
+        ) [YesVarDeclaration]
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+          SingleVarDeclaration(
+            VarDeclarationNoArray(
+             bt
+            ) [VarDeclarationNoArray]
+          ) [SingleVarDeclaration]
+        ) [VarDeclaration]
+      ) [YesVarDeclaration]
+      YesStatementList(
+        YesStatementList(
+          YesStatementList(
+            YesStatementList(
+              YesStatementList(
+                YesStatementList(
+                  YesStatementList(
+                    YesStatementList(
+                      YesStatementList(
+                        YesStatementList(
+                          YesStatementList(
+                            YesStatementList(
+                              YesStatementList(
+                                YesStatementList(
+                                  YesStatementList(
+                                    YesStatementList(
+                                      YesStatementList(
+                                        YesStatementList(
+                                          YesStatementList(
+                                            YesStatementList(
+                                              YesStatementList(
+                                                YesStatementList(
+                                                  YesStatementList(
+                                                    YesStatementList(
+                                                      NoStatement(
+                                                      ) [NoStatement]
+                                                      DesigStmt(
+                                                        DesigExpr(
+                                                          DesigNoArray(
+                                                           bodovi
+                                                          ) [DesigNoArray]
+                                                          NoTernaryOperator(
+                                                            OnlyTerm(
+                                                              SingleFactor(
+                                                                NumConstFactor(
+                                                                 0
+                                                                ) [NumConstFactor]
+                                                              ) [SingleFactor]
+                                                            ) [OnlyTerm]
+                                                          ) [NoTernaryOperator]
+                                                        ) [DesigExpr]
+                                                      ) [DesigStmt]
+                                                    ) [YesStatementList]
+                                                    DesigStmt(
+                                                      DesigPlusPlus(
+                                                        DesigNoArray(
+                                                         bodovi
+                                                        ) [DesigNoArray]
+                                                      ) [DesigPlusPlus]
+                                                    ) [DesigStmt]
+                                                  ) [YesStatementList]
+                                                  DesigStmt(
+                                                    DesigExpr(
+                                                      DesigNoArray(
+                                                       bodovi
+                                                      ) [DesigNoArray]
+                                                      NoTernaryOperator(
+                                                        ExprAddopTerm(
+                                                          OnlyTerm(
+                                                            SingleFactor(
+                                                              DesigNoParen(
+                                                                DesigNoArray(
+                                                                 bodovi
+                                                                ) [DesigNoArray]
+                                                              ) [DesigNoParen]
+                                                            ) [SingleFactor]
+                                                          ) [OnlyTerm]
+                                                          PlusOperation(
+                                                          ) [PlusOperation]
+                                                          SingleFactor(
+                                                            DesigNoParen(
+                                                              DesigNoArray(
+                                                               jedan
+                                                              ) [DesigNoArray]
+                                                            ) [DesigNoParen]
+                                                          ) [SingleFactor]
+                                                        ) [ExprAddopTerm]
+                                                      ) [NoTernaryOperator]
+                                                    ) [DesigExpr]
+                                                  ) [DesigStmt]
+                                                ) [YesStatementList]
+                                                DesigStmt(
+                                                  DesigExpr(
+                                                    DesigNoArray(
+                                                     bodovi
+                                                    ) [DesigNoArray]
+                                                    NoTernaryOperator(
+                                                      OnlyTerm(
+                                                        FactorList(
+                                                          SingleFactor(
+                                                            DesigNoParen(
+                                                              DesigNoArray(
+                                                               bodovi
+                                                              ) [DesigNoArray]
+                                                            ) [DesigNoParen]
+                                                          ) [SingleFactor]
+                                                          MulOperation(
+                                                          ) [MulOperation]
+                                                          DesigNoParen(
+                                                            DesigNoArray(
+                                                             pet
+                                                            ) [DesigNoArray]
+                                                          ) [DesigNoParen]
+                                                        ) [FactorList]
+                                                      ) [OnlyTerm]
+                                                    ) [NoTernaryOperator]
+                                                  ) [DesigExpr]
+                                                ) [DesigStmt]
+                                              ) [YesStatementList]
+                                              DesigStmt(
+                                                DesigMinusMinus(
+                                                  DesigNoArray(
+                                                   bodovi
+                                                  ) [DesigNoArray]
+                                                ) [DesigMinusMinus]
+                                              ) [DesigStmt]
+                                            ) [YesStatementList]
+                                            PrintExpr(
+                                              NoTernaryOperator(
+                                                OnlyTerm(
+                                                  SingleFactor(
+                                                    DesigNoParen(
+                                                      DesigNoArray(
+                                                       bodovi
+                                                      ) [DesigNoArray]
+                                                    ) [DesigNoParen]
+                                                  ) [SingleFactor]
+                                                ) [OnlyTerm]
+                                              ) [NoTernaryOperator]
+                                            ) [PrintExpr]
+                                          ) [YesStatementList]
+                                          DesigStmt(
+                                            DesigExpr(
+                                              DesigNoArray(
+                                               niz
+                                              ) [DesigNoArray]
+                                              NoTernaryOperator(
+                                                OnlyTerm(
+                                                  SingleFactor(
+                                                    NewArrayFactor(
+                                                      Type(
+                                                       int
+                                                      ) [Type]
+                                                      NoTernaryOperator(
+                                                        OnlyTerm(
+                                                          SingleFactor(
+                                                            NumConstFactor(
+                                                             3
+                                                            ) [NumConstFactor]
+                                                          ) [SingleFactor]
+                                                        ) [OnlyTerm]
+                                                      ) [NoTernaryOperator]
+                                                    ) [NewArrayFactor]
+                                                  ) [SingleFactor]
+                                                ) [OnlyTerm]
+                                              ) [NoTernaryOperator]
+                                            ) [DesigExpr]
+                                          ) [DesigStmt]
+                                        ) [YesStatementList]
+                                        DesigStmt(
+                                          DesigExpr(
+                                            DesigArray(
+                                              ArrayName(
+                                               niz
+                                              ) [ArrayName]
+                                              NoTernaryOperator(
+                                                OnlyTerm(
+                                                  SingleFactor(
+                                                    DesigNoParen(
+                                                      DesigNoArray(
+                                                       nula
+                                                      ) [DesigNoArray]
+                                                    ) [DesigNoParen]
+                                                  ) [SingleFactor]
+                                                ) [OnlyTerm]
+                                              ) [NoTernaryOperator]
+                                            ) [DesigArray]
+                                            NoTernaryOperator(
+                                              OnlyTerm(
+                                                SingleFactor(
+                                                  DesigNoParen(
+                                                    DesigNoArray(
+                                                     jedan
+                                                    ) [DesigNoArray]
+                                                  ) [DesigNoParen]
+                                                ) [SingleFactor]
+                                              ) [OnlyTerm]
+                                            ) [NoTernaryOperator]
+                                          ) [DesigExpr]
+                                        ) [DesigStmt]
+                                      ) [YesStatementList]
+                                      DesigStmt(
+                                        DesigExpr(
+                                          DesigArray(
+                                            ArrayName(
+                                             niz
+                                            ) [ArrayName]
+                                            NoTernaryOperator(
+                                              OnlyTerm(
+                                                SingleFactor(
+                                                  NumConstFactor(
+                                                   1
+                                                  ) [NumConstFactor]
+                                                ) [SingleFactor]
+                                              ) [OnlyTerm]
+                                            ) [NoTernaryOperator]
+                                          ) [DesigArray]
+                                          NoTernaryOperator(
+                                            OnlyTerm(
+                                              SingleFactor(
+                                                NumConstFactor(
+                                                 2
+                                                ) [NumConstFactor]
+                                              ) [SingleFactor]
+                                            ) [OnlyTerm]
+                                          ) [NoTernaryOperator]
+                                        ) [DesigExpr]
+                                      ) [DesigStmt]
+                                    ) [YesStatementList]
+                                    DesigStmt(
+                                      DesigExpr(
+                                        DesigArray(
+                                          ArrayName(
+                                           niz
+                                          ) [ArrayName]
+                                          NoTernaryOperator(
+                                            OnlyTerm(
+                                              SingleFactor(
+                                                DesigNoParen(
+                                                  DesigArray(
+                                                    ArrayName(
+                                                     niz
+                                                    ) [ArrayName]
+                                                    NoTernaryOperator(
+                                                      OnlyTerm(
+                                                        SingleFactor(
+                                                          DesigNoParen(
+                                                            DesigNoArray(
+                                                             jedan
+                                                            ) [DesigNoArray]
+                                                          ) [DesigNoParen]
+                                                        ) [SingleFactor]
+                                                      ) [OnlyTerm]
+                                                    ) [NoTernaryOperator]
+                                                  ) [DesigArray]
+                                                ) [DesigNoParen]
+                                              ) [SingleFactor]
+                                            ) [OnlyTerm]
+                                          ) [NoTernaryOperator]
+                                        ) [DesigArray]
+                                        NoTernaryOperator(
+                                          ExprAddopTerm(
+                                            OnlyTerm(
+                                              FactorList(
+                                                SingleFactor(
+                                                  DesigNoParen(
+                                                    DesigArray(
+                                                      ArrayName(
+                                                       niz
+                                                      ) [ArrayName]
+                                                      NoTernaryOperator(
+                                                        OnlyTerm(
+                                                          SingleFactor(
+                                                            DesigNoParen(
+                                                              DesigArray(
+                                                                ArrayName(
+                                                                 niz
+                                                                ) [ArrayName]
+                                                                NoTernaryOperator(
+                                                                  OnlyTerm(
+                                                                    SingleFactor(
+                                                                      NumConstFactor(
+                                                                       0
+                                                                      ) [NumConstFactor]
+                                                                    ) [SingleFactor]
+                                                                  ) [OnlyTerm]
+                                                                ) [NoTernaryOperator]
+                                                              ) [DesigArray]
+                                                            ) [DesigNoParen]
+                                                          ) [SingleFactor]
+                                                        ) [OnlyTerm]
+                                                      ) [NoTernaryOperator]
+                                                    ) [DesigArray]
+                                                  ) [DesigNoParen]
+                                                ) [SingleFactor]
+                                                MulOperation(
+                                                ) [MulOperation]
+                                                NumConstFactor(
+                                                 3
+                                                ) [NumConstFactor]
+                                              ) [FactorList]
+                                            ) [OnlyTerm]
+                                            PlusOperation(
+                                            ) [PlusOperation]
+                                            SingleFactor(
+                                              NumConstFactor(
+                                               2
+                                              ) [NumConstFactor]
+                                            ) [SingleFactor]
+                                          ) [ExprAddopTerm]
+                                        ) [NoTernaryOperator]
+                                      ) [DesigExpr]
+                                    ) [DesigStmt]
+                                  ) [YesStatementList]
+                                  DesigStmt(
+                                    DesigExpr(
+                                      DesigNoArray(
+                                       bodovi
+                                      ) [DesigNoArray]
+                                      NoTernaryOperator(
+                                        ExprAddopTerm(
+                                          OnlyTerm(
+                                            FactorList(
+                                              SingleFactor(
+                                                DesigNoParen(
+                                                  DesigArray(
+                                                    ArrayName(
+                                                     niz
+                                                    ) [ArrayName]
+                                                    NoTernaryOperator(
+                                                      OnlyTerm(
+                                                        SingleFactor(
+                                                          NumConstFactor(
+                                                           2
+                                                          ) [NumConstFactor]
+                                                        ) [SingleFactor]
+                                                      ) [OnlyTerm]
+                                                    ) [NoTernaryOperator]
+                                                  ) [DesigArray]
+                                                ) [DesigNoParen]
+                                              ) [SingleFactor]
+                                              DivOperation(
+                                              ) [DivOperation]
+                                              DesigNoParen(
+                                                DesigArray(
+                                                  ArrayName(
+                                                   niz
+                                                  ) [ArrayName]
+                                                  NoTernaryOperator(
+                                                    OnlyTerm(
+                                                      SingleFactor(
+                                                        NumConstFactor(
+                                                         0
+                                                        ) [NumConstFactor]
+                                                      ) [SingleFactor]
+                                                    ) [OnlyTerm]
+                                                  ) [NoTernaryOperator]
+                                                ) [DesigArray]
+                                              ) [DesigNoParen]
+                                            ) [FactorList]
+                                          ) [OnlyTerm]
+                                          PlusOperation(
+                                          ) [PlusOperation]
+                                          SingleFactor(
+                                            NumConstFactor(
+                                             2
+                                            ) [NumConstFactor]
+                                          ) [SingleFactor]
+                                        ) [ExprAddopTerm]
+                                      ) [NoTernaryOperator]
+                                    ) [DesigExpr]
+                                  ) [DesigStmt]
+                                ) [YesStatementList]
+                                PrintExpr(
+                                  NoTernaryOperator(
+                                    OnlyTerm(
+                                      SingleFactor(
+                                        DesigNoParen(
+                                          DesigNoArray(
+                                           bodovi
+                                          ) [DesigNoArray]
+                                        ) [DesigNoParen]
+                                      ) [SingleFactor]
+                                    ) [OnlyTerm]
+                                  ) [NoTernaryOperator]
+                                ) [PrintExpr]
+                              ) [YesStatementList]
+                              PrintExpr(
+                                NoTernaryOperator(
+                                  OnlyTerm(
+                                    SingleFactor(
+                                      DesigNoParen(
+                                        DesigArray(
+                                          ArrayName(
+                                           niz
+                                          ) [ArrayName]
+                                          NoTernaryOperator(
+                                            OnlyTerm(
+                                              SingleFactor(
+                                                NumConstFactor(
+                                                 2
+                                                ) [NumConstFactor]
+                                              ) [SingleFactor]
+                                            ) [OnlyTerm]
+                                          ) [NoTernaryOperator]
+                                        ) [DesigArray]
+                                      ) [DesigNoParen]
+                                    ) [SingleFactor]
+                                  ) [OnlyTerm]
+                                ) [NoTernaryOperator]
+                              ) [PrintExpr]
+                            ) [YesStatementList]
+                            DesigStmt(
+                              DesigExpr(
+                                DesigNoArray(
+                                 nizch
+                                ) [DesigNoArray]
+                                NoTernaryOperator(
+                                  OnlyTerm(
+                                    SingleFactor(
+                                      NewArrayFactor(
+                                        Type(
+                                         char
+                                        ) [Type]
+                                        NoTernaryOperator(
+                                          OnlyTerm(
+                                            SingleFactor(
+                                              NumConstFactor(
+                                               3
+                                              ) [NumConstFactor]
+                                            ) [SingleFactor]
+                                          ) [OnlyTerm]
+                                        ) [NoTernaryOperator]
+                                      ) [NewArrayFactor]
+                                    ) [SingleFactor]
+                                  ) [OnlyTerm]
+                                ) [NoTernaryOperator]
+                              ) [DesigExpr]
+                            ) [DesigStmt]
+                          ) [YesStatementList]
+                          DesigStmt(
+                            DesigExpr(
+                              DesigArray(
+                                ArrayName(
+                                 nizch
+                                ) [ArrayName]
+                                NoTernaryOperator(
+                                  OnlyTerm(
+                                    SingleFactor(
+                                      NumConstFactor(
+                                       0
+                                      ) [NumConstFactor]
+                                    ) [SingleFactor]
+                                  ) [OnlyTerm]
+                                ) [NoTernaryOperator]
+                              ) [DesigArray]
+                              NoTernaryOperator(
+                                OnlyTerm(
+                                  SingleFactor(
+                                    CharConstFactor(
+                                     a
+                                    ) [CharConstFactor]
+                                  ) [SingleFactor]
+                                ) [OnlyTerm]
+                              ) [NoTernaryOperator]
+                            ) [DesigExpr]
+                          ) [DesigStmt]
+                        ) [YesStatementList]
+                        DesigStmt(
+                          DesigExpr(
+                            DesigArray(
+                              ArrayName(
+                               nizch
+                              ) [ArrayName]
+                              NoTernaryOperator(
+                                OnlyTerm(
+                                  SingleFactor(
+                                    DesigNoParen(
+                                      DesigNoArray(
+                                       jedan
+                                      ) [DesigNoArray]
+                                    ) [DesigNoParen]
+                                  ) [SingleFactor]
+                                ) [OnlyTerm]
+                              ) [NoTernaryOperator]
+                            ) [DesigArray]
+                            NoTernaryOperator(
+                              OnlyTerm(
+                                SingleFactor(
+                                  CharConstFactor(
+                                   b
+                                  ) [CharConstFactor]
+                                ) [SingleFactor]
+                              ) [OnlyTerm]
+                            ) [NoTernaryOperator]
+                          ) [DesigExpr]
+                        ) [DesigStmt]
+                      ) [YesStatementList]
+                      DesigStmt(
+                        DesigExpr(
+                          DesigArray(
+                            ArrayName(
+                             nizch
+                            ) [ArrayName]
+                            NoTernaryOperator(
+                              ExprAddopTerm(
+                                OnlyTerm(
+                                  SingleFactor(
+                                    DesigNoParen(
+                                      DesigNoArray(
+                                       pet
+                                      ) [DesigNoArray]
+                                    ) [DesigNoParen]
+                                  ) [SingleFactor]
+                                ) [OnlyTerm]
+                                MinusOperation(
+                                ) [MinusOperation]
+                                SingleFactor(
+                                  NumConstFactor(
+                                   3
+                                  ) [NumConstFactor]
+                                ) [SingleFactor]
+                              ) [ExprAddopTerm]
+                            ) [NoTernaryOperator]
+                          ) [DesigArray]
+                          NoTernaryOperator(
+                            OnlyTerm(
+                              SingleFactor(
+                                CharConstFactor(
+                                 c
+                                ) [CharConstFactor]
+                              ) [SingleFactor]
+                            ) [OnlyTerm]
+                          ) [NoTernaryOperator]
+                        ) [DesigExpr]
+                      ) [DesigStmt]
+                    ) [YesStatementList]
+                    PrintExpr(
+                      NoTernaryOperator(
+                        OnlyTerm(
+                          SingleFactor(
+                            DesigNoParen(
+                              DesigArray(
+                                ArrayName(
+                                 nizch
+                                ) [ArrayName]
+                                NoTernaryOperator(
+                                  OnlyTerm(
+                                    SingleFactor(
+                                      NumConstFactor(
+                                       1
+                                      ) [NumConstFactor]
+                                    ) [SingleFactor]
+                                  ) [OnlyTerm]
+                                ) [NoTernaryOperator]
+                              ) [DesigArray]
+                            ) [DesigNoParen]
+                          ) [SingleFactor]
+                        ) [OnlyTerm]
+                      ) [NoTernaryOperator]
+                    ) [PrintExpr]
+                  ) [YesStatementList]
+                  PrintExpr(
+                    NoTernaryOperator(
+                      OnlyTerm(
+                        SingleFactor(
+                          DesigNoParen(
+                            DesigArray(
+                              ArrayName(
+                               nizch
+                              ) [ArrayName]
+                              NoTernaryOperator(
+                                OnlyTerm(
+                                  FactorList(
+                                    SingleFactor(
+                                      DesigNoParen(
+                                        DesigNoArray(
+                                         jedan
+                                        ) [DesigNoArray]
+                                      ) [DesigNoParen]
+                                    ) [SingleFactor]
+                                    MulOperation(
+                                    ) [MulOperation]
+                                    NumConstFactor(
+                                     2
+                                    ) [NumConstFactor]
+                                  ) [FactorList]
+                                ) [OnlyTerm]
+                              ) [NoTernaryOperator]
+                            ) [DesigArray]
+                          ) [DesigNoParen]
+                        ) [SingleFactor]
+                      ) [OnlyTerm]
+                    ) [NoTernaryOperator]
+                  ) [PrintExpr]
+                ) [YesStatementList]
+                DesigStmt(
+                  DesigExpr(
+                    DesigNoArray(
+                     bodovi
+                    ) [DesigNoArray]
+                    NoTernaryOperator(
+                      ExprAddopTerm(
+                        ExprAddopTerm(
+                          OnlyTerm(
+                            SingleFactor(
+                              DesigNoParen(
+                                DesigNoArray(
+                                 bodovi
+                                ) [DesigNoArray]
+                              ) [DesigNoParen]
+                            ) [SingleFactor]
+                          ) [OnlyTerm]
+                          PlusOperation(
+                          ) [PlusOperation]
+                          FactorList(
+                            SingleFactor(
+                              ExprFactor(
+                                NoTernaryOperator(
+                                  ExprAddopTerm(
+                                    OnlyTerm(
+                                      FactorList(
+                                        SingleFactor(
+                                          DesigNoParen(
+                                            DesigNoArray(
+                                             pet
+                                            ) [DesigNoArray]
+                                          ) [DesigNoParen]
+                                        ) [SingleFactor]
+                                        MulOperation(
+                                        ) [MulOperation]
+                                        DesigNoParen(
+                                          DesigNoArray(
+                                           jedan
+                                          ) [DesigNoArray]
+                                        ) [DesigNoParen]
+                                      ) [FactorList]
+                                    ) [OnlyTerm]
+                                    MinusOperation(
+                                    ) [MinusOperation]
+                                    SingleFactor(
+                                      NumConstFactor(
+                                       1
+                                      ) [NumConstFactor]
+                                    ) [SingleFactor]
+                                  ) [ExprAddopTerm]
+                                ) [NoTernaryOperator]
+                              ) [ExprFactor]
+                            ) [SingleFactor]
+                            MulOperation(
+                            ) [MulOperation]
+                            DesigNoParen(
+                              DesigNoArray(
+                               bodovi
+                              ) [DesigNoArray]
+                            ) [DesigNoParen]
+                          ) [FactorList]
+                        ) [ExprAddopTerm]
+                        MinusOperation(
+                        ) [MinusOperation]
+                        SingleFactor(
+                          ExprFactor(
+                            NoTernaryOperator(
+                              ExprAddopTerm(
+                                ExprAddopTerm(
+                                  OnlyTerm(
+                                    FactorList(
+                                      SingleFactor(
+                                        NumConstFactor(
+                                         3
+                                        ) [NumConstFactor]
+                                      ) [SingleFactor]
+                                      ProcOperation(
+                                      ) [ProcOperation]
+                                      NumConstFactor(
+                                       2
+                                      ) [NumConstFactor]
+                                    ) [FactorList]
+                                  ) [OnlyTerm]
+                                  PlusOperation(
+                                  ) [PlusOperation]
+                                  FactorList(
+                                    SingleFactor(
+                                      NumConstFactor(
+                                       3
+                                      ) [NumConstFactor]
+                                    ) [SingleFactor]
+                                    MulOperation(
+                                    ) [MulOperation]
+                                    NumConstFactor(
+                                     2
+                                    ) [NumConstFactor]
+                                  ) [FactorList]
+                                ) [ExprAddopTerm]
+                                MinusOperation(
+                                ) [MinusOperation]
+                                SingleFactor(
+                                  NumConstFactor(
+                                   3
+                                  ) [NumConstFactor]
+                                ) [SingleFactor]
+                              ) [ExprAddopTerm]
+                            ) [NoTernaryOperator]
+                          ) [ExprFactor]
+                        ) [SingleFactor]
+                      ) [ExprAddopTerm]
+                    ) [NoTernaryOperator]
+                  ) [DesigExpr]
+                ) [DesigStmt]
+              ) [YesStatementList]
+              PrintExpr(
+                NoTernaryOperator(
+                  OnlyTerm(
+                    SingleFactor(
+                      DesigNoParen(
+                        DesigNoArray(
+                         bodovi
+                        ) [DesigNoArray]
+                      ) [DesigNoParen]
+                    ) [SingleFactor]
+                  ) [OnlyTerm]
+                ) [NoTernaryOperator]
+              ) [PrintExpr]
+            ) [YesStatementList]
+            DesigStmt(
+              DesigExpr(
+                DesigNoArray(
+                 bt
+                ) [DesigNoArray]
+                NoTernaryOperator(
+                  OnlyTerm(
+                    SingleFactor(
+                      BoolConstFactor(
+                       true
+                      ) [BoolConstFactor]
+                    ) [SingleFactor]
+                  ) [OnlyTerm]
+                ) [NoTernaryOperator]
+              ) [DesigExpr]
+            ) [DesigStmt]
+          ) [YesStatementList]
+          PrintExpr(
+            YesTernaryOperator(
+              OnlyTerm(
+                SingleFactor(
+                  DesigNoParen(
+                    DesigNoArray(
+                     bt
+                    ) [DesigNoArray]
+                  ) [DesigNoParen]
+                ) [SingleFactor]
+              ) [OnlyTerm]
+              OnlyTerm(
+                SingleFactor(
+                  DesigNoParen(
+                    DesigNoArray(
+                     bodovi
+                    ) [DesigNoArray]
+                  ) [DesigNoParen]
+                ) [SingleFactor]
+              ) [OnlyTerm]
+              ExprAddopTerm(
+                OnlyTerm(
+                  SingleFactor(
+                    DesigNoParen(
+                      DesigNoArray(
+                       bodovi
+                      ) [DesigNoArray]
+                    ) [DesigNoParen]
+                  ) [SingleFactor]
+                ) [OnlyTerm]
+                PlusOperation(
+                ) [PlusOperation]
+                SingleFactor(
+                  NumConstFactor(
+                   10
+                  ) [NumConstFactor]
+                ) [SingleFactor]
+              ) [ExprAddopTerm]
+            ) [YesTernaryOperator]
+          ) [PrintExpr]
+        ) [YesStatementList]
+        PrintExpr(
+          YesTernaryOperator(
+            OnlyTerm(
+              SingleFactor(
+                BoolConstFactor(
+                 false
+                ) [BoolConstFactor]
+              ) [SingleFactor]
+            ) [OnlyTerm]
+            ExprAddopTerm(
+              OnlyTerm(
+                SingleFactor(
+                  DesigNoParen(
+                    DesigNoArray(
+                     bodovi
+                    ) [DesigNoArray]
+                  ) [DesigNoParen]
+                ) [SingleFactor]
+              ) [OnlyTerm]
+              PlusOperation(
+              ) [PlusOperation]
+              SingleFactor(
+                NumConstFactor(
+                 20
+                ) [NumConstFactor]
+              ) [SingleFactor]
+            ) [ExprAddopTerm]
+            ExprAddopTerm(
+              OnlyTerm(
+                SingleFactor(
+                  DesigNoParen(
+                    DesigNoArray(
+                     bodovi
+                    ) [DesigNoArray]
+                  ) [DesigNoParen]
+                ) [SingleFactor]
+              ) [OnlyTerm]
+              PlusOperation(
+              ) [PlusOperation]
+              SingleFactor(
+                NumConstFactor(
+                 30
+                ) [NumConstFactor]
+              ) [SingleFactor]
+            ) [ExprAddopTerm]
+          ) [YesTernaryOperator]
+        ) [PrintExpr]
+      ) [YesStatementList]
+    ) [VoidMethodDeclaration]
+  ) [SingleMethodDeclaration]
+) [Program]
+INFO  21:52:26,752 - ===================================
+INFO  21:52:26,757 - global
+INFO  21:52:26,757 - Deklaracija num konstante nula na liniji 5
+INFO  21:52:26,757 - U tabelu simbola uneta konstanta: nula
+INFO  21:52:26,757 - global
+INFO  21:52:26,758 - Deklaracija num konstante jedan na liniji 6
+INFO  21:52:26,758 - U tabelu simbola uneta konstanta: jedan
+INFO  21:52:26,758 - global
+INFO  21:52:26,758 - Deklaracija num konstante pet na liniji 7
+INFO  21:52:26,758 - U tabelu simbola uneta konstanta: pet
+INFO  21:52:26,759 - global
+INFO  21:52:26,759 - Deklaracija niza niz na liniji 9
+INFO  21:52:26,759 - U tabelu simbola uneta promenljiva: niz
+INFO  21:52:26,759 - global
+INFO  21:52:26,759 - Deklaracija niza nizch na liniji 10
+INFO  21:52:26,759 - U tabelu simbola uneta promenljiva: nizch
+INFO  21:52:26,759 - Obradjuje se funkcija main na liniji 13
+INFO  21:52:26,759 - Deklaracija promenljive bodovi na liniji 14
+INFO  21:52:26,759 - U tabelu simbola uneta promenljiva: bodovi
+INFO  21:52:26,759 - Deklaracija promenljive bt na liniji 15
+INFO  21:52:26,759 - U tabelu simbola uneta promenljiva: bt
+INFO  21:52:26,759 - Koristi se lokalna promenljiva bodovi na liniji 17
+INFO  21:52:26,760 - Koristi se lokalna promenljiva bodovi na liniji 18
+INFO  21:52:26,760 - Koristi se lokalna promenljiva bodovi na liniji 19
+INFO  21:52:26,760 - Koristi se lokalna promenljiva bodovi na liniji 19
+INFO  21:52:26,760 - Koristi se (globalna) konstanta jedan na liniji 19
+INFO  21:52:26,761 - Koristi se lokalna promenljiva bodovi na liniji 20
+INFO  21:52:26,761 - Koristi se lokalna promenljiva bodovi na liniji 20
+INFO  21:52:26,761 - Koristi se (globalna) konstanta pet na liniji 20
+INFO  21:52:26,761 - Koristi se lokalna promenljiva bodovi na liniji 21
+INFO  21:52:26,762 - Koristi se lokalna promenljiva bodovi na liniji 22
+INFO  21:52:26,762 - Koristi se globalna promenljiva niz na liniji 25
+INFO  21:52:26,763 - Koristi se globalna promenljiva(niz) niz na liniji 26
+INFO  21:52:26,763 - Koristi se (globalna) konstanta nula na liniji 26
+INFO  21:52:26,763 - Koristi se (globalna) konstanta jedan na liniji 26
+INFO  21:52:26,763 - Koristi se globalna promenljiva(niz) niz na liniji 27
+INFO  21:52:26,763 - Koristi se globalna promenljiva(niz) niz na liniji 28
+INFO  21:52:26,764 - Koristi se globalna promenljiva(niz) niz na liniji 28
+INFO  21:52:26,764 - Koristi se (globalna) konstanta jedan na liniji 28
+INFO  21:52:26,764 - Koristi se globalna promenljiva(niz) niz na liniji 28
+INFO  21:52:26,764 - Koristi se globalna promenljiva(niz) niz na liniji 28
+INFO  21:52:26,764 - Koristi se lokalna promenljiva bodovi na liniji 29
+INFO  21:52:26,764 - Koristi se globalna promenljiva(niz) niz na liniji 29
+INFO  21:52:26,764 - Koristi se globalna promenljiva(niz) niz na liniji 29
+INFO  21:52:26,765 - Koristi se lokalna promenljiva bodovi na liniji 30
+INFO  21:52:26,765 - Koristi se globalna promenljiva(niz) niz na liniji 31
+INFO  21:52:26,765 - Koristi se globalna promenljiva nizch na liniji 34
+INFO  21:52:26,765 - Koristi se globalna promenljiva(niz) nizch na liniji 35
+INFO  21:52:26,765 - Koristi se globalna promenljiva(niz) nizch na liniji 36
+INFO  21:52:26,765 - Koristi se (globalna) konstanta jedan na liniji 36
+INFO  21:52:26,765 - Koristi se globalna promenljiva(niz) nizch na liniji 37
+INFO  21:52:26,765 - Koristi se (globalna) konstanta pet na liniji 37
+INFO  21:52:26,766 - Koristi se globalna promenljiva(niz) nizch na liniji 38
+INFO  21:52:26,766 - Koristi se globalna promenljiva(niz) nizch na liniji 39
+INFO  21:52:26,766 - Koristi se (globalna) konstanta jedan na liniji 39
+INFO  21:52:26,766 - Koristi se lokalna promenljiva bodovi na liniji 42
+INFO  21:52:26,766 - Koristi se lokalna promenljiva bodovi na liniji 42
+INFO  21:52:26,766 - Koristi se (globalna) konstanta pet na liniji 42
+INFO  21:52:26,766 - Koristi se (globalna) konstanta jedan na liniji 42
+INFO  21:52:26,766 - Koristi se lokalna promenljiva bodovi na liniji 42
+INFO  21:52:26,766 - Koristi se lokalna promenljiva bodovi na liniji 43
+INFO  21:52:26,766 - Koristi se lokalna promenljiva bt na liniji 45
+INFO  21:52:26,766 - Koristi se lokalna promenljiva bt na liniji 47
+INFO  21:52:26,767 - Koristi se lokalna promenljiva bodovi na liniji 47
+INFO  21:52:26,767 - Koristi se lokalna promenljiva bodovi na liniji 47
+INFO  21:52:26,767 - Koristi se lokalna promenljiva bodovi na liniji 48
+INFO  21:52:26,767 - Koristi se lokalna promenljiva bodovi na liniji 48
+INFO  21:52:26,767 -  Print count calls = 0
+INFO  21:52:26,767 -  Deklarisanih promenljivih ima = 0
+INFO  21:52:26,767 - ===================================
+INFO  21:52:26,788 - Parsiranje uspesno zavrseno!

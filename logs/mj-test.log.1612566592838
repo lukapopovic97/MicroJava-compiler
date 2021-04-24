@@ -1,0 +1,312 @@
+INFO  23:33:53,665 - Compiling source file: C:\Users\Luka\eclipse-workspace\ProjekatPP2021\test\program.mj
+INFO  23:33:53,709 - #2 program
+INFO  23:33:53,710 - #26 test301
+INFO  23:33:53,710 - #6 const
+INFO  23:33:53,711 - #26 int
+INFO  23:33:53,711 - #26 nula
+INFO  23:33:53,712 - #15 =
+INFO  23:33:53,712 - #29 0
+INFO  23:33:53,712 - #22 ;
+INFO  23:33:53,712 - #26 char
+INFO  23:33:53,713 - #26 nizch
+INFO  23:33:53,713 - #18 [
+INFO  23:33:53,713 - #19 ]
+INFO  23:33:53,713 - #22 ;
+INFO  23:33:53,713 - #6 const
+INFO  23:33:53,714 - #26 int
+INFO  23:33:53,714 - #26 jedan
+INFO  23:33:53,714 - #15 =
+INFO  23:33:53,714 - #29 1
+INFO  23:33:53,714 - #22 ;
+INFO  23:33:53,714 - #26 int
+INFO  23:33:53,714 - #26 niz
+INFO  23:33:53,715 - #18 [
+INFO  23:33:53,715 - #19 ]
+INFO  23:33:53,715 - #22 ;
+INFO  23:33:53,715 - #6 const
+INFO  23:33:53,715 - #26 char
+INFO  23:33:53,715 - #26 ch
+INFO  23:33:53,716 - #15 =
+INFO  23:33:53,716 - #28 c
+INFO  23:33:53,716 - #22 ;
+INFO  23:33:53,716 - #6 const
+INFO  23:33:53,716 - #26 int
+INFO  23:33:53,716 - #26 pet
+INFO  23:33:53,716 - #15 =
+INFO  23:33:53,717 - #29 5
+INFO  23:33:53,717 - #22 ;
+INFO  23:33:53,717 - #6 const
+INFO  23:33:53,717 - #26 bool
+INFO  23:33:53,717 - #26 b
+INFO  23:33:53,717 - #15 =
+INFO  23:33:53,717 - #27 true
+INFO  23:33:53,717 - #22 ;
+INFO  23:33:53,718 - #26 char
+INFO  23:33:53,718 - #26 chvar
+INFO  23:33:53,718 - #22 ;
+INFO  23:33:53,719 - #26 bool
+INFO  23:33:53,719 - #26 bvar
+INFO  23:33:53,719 - #22 ;
+INFO  23:33:53,719 - #26 int
+INFO  23:33:53,719 - #26 nvar
+INFO  23:33:53,719 - #22 ;
+INFO  23:33:53,720 - #16 {
+INFO  23:33:53,720 - #7 void
+INFO  23:33:53,720 - #26 main
+INFO  23:33:53,720 - #20 (
+INFO  23:33:53,721 - #21 )
+INFO  23:33:53,723 - #26 int
+INFO  23:33:53,724 - #26 bodovi
+INFO  23:33:53,724 - #22 ;
+INFO  23:33:53,724 - #26 bool
+INFO  23:33:53,724 - #26 bt
+INFO  23:33:53,725 - #22 ;
+INFO  23:33:53,725 - #26 char
+INFO  23:33:53,725 - #26 ct
+INFO  23:33:53,725 - #22 ;
+INFO  23:33:53,725 - #16 {
+INFO  23:33:53,725 - #17 }
+INFO  23:33:53,727 - #17 }
+INFO  23:33:53,747 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DecarationlList(
+    DecarationlList(
+      DecarationlList(
+        DecarationlList(
+          DecarationlList(
+            DecarationlList(
+              DecarationlList(
+                DecarationlList(
+                  DecarationlList(
+                    DecarationlList(
+                      NoDeclarations(
+                      ) [NoDeclarations]
+                      ConstDeclarationPart(
+                        ConstDeclaration(
+                          Type(
+                           int
+                          ) [Type]
+                          SingleConstDeclaration(
+                            NumConstDecl(
+                             nula
+                             0
+                            ) [NumConstDecl]
+                          ) [SingleConstDeclaration]
+                        ) [ConstDeclaration]
+                      ) [ConstDeclarationPart]
+                    ) [DecarationlList]
+                    VarDeclarationPart(
+                      VarDeclaration(
+                        Type(
+                         char
+                        ) [Type]
+                        SingleVarDeclaration(
+                          VarDeclarationArray(
+                           nizch
+                          ) [VarDeclarationArray]
+                        ) [SingleVarDeclaration]
+                      ) [VarDeclaration]
+                    ) [VarDeclarationPart]
+                  ) [DecarationlList]
+                  ConstDeclarationPart(
+                    ConstDeclaration(
+                      Type(
+                       int
+                      ) [Type]
+                      SingleConstDeclaration(
+                        NumConstDecl(
+                         jedan
+                         1
+                        ) [NumConstDecl]
+                      ) [SingleConstDeclaration]
+                    ) [ConstDeclaration]
+                  ) [ConstDeclarationPart]
+                ) [DecarationlList]
+                VarDeclarationPart(
+                  VarDeclaration(
+                    Type(
+                     int
+                    ) [Type]
+                    SingleVarDeclaration(
+                      VarDeclarationArray(
+                       niz
+                      ) [VarDeclarationArray]
+                    ) [SingleVarDeclaration]
+                  ) [VarDeclaration]
+                ) [VarDeclarationPart]
+              ) [DecarationlList]
+              ConstDeclarationPart(
+                ConstDeclaration(
+                  Type(
+                   char
+                  ) [Type]
+                  SingleConstDeclaration(
+                    CharConstDecl(
+                     ch
+                     c
+                    ) [CharConstDecl]
+                  ) [SingleConstDeclaration]
+                ) [ConstDeclaration]
+              ) [ConstDeclarationPart]
+            ) [DecarationlList]
+            ConstDeclarationPart(
+              ConstDeclaration(
+                Type(
+                 int
+                ) [Type]
+                SingleConstDeclaration(
+                  NumConstDecl(
+                   pet
+                   5
+                  ) [NumConstDecl]
+                ) [SingleConstDeclaration]
+              ) [ConstDeclaration]
+            ) [ConstDeclarationPart]
+          ) [DecarationlList]
+          ConstDeclarationPart(
+            ConstDeclaration(
+              Type(
+               bool
+              ) [Type]
+              SingleConstDeclaration(
+                BoolConstDecl(
+                 b
+                 true
+                ) [BoolConstDecl]
+              ) [SingleConstDeclaration]
+            ) [ConstDeclaration]
+          ) [ConstDeclarationPart]
+        ) [DecarationlList]
+        VarDeclarationPart(
+          VarDeclaration(
+            Type(
+             char
+            ) [Type]
+            SingleVarDeclaration(
+              VarDeclarationNoArray(
+               chvar
+              ) [VarDeclarationNoArray]
+            ) [SingleVarDeclaration]
+          ) [VarDeclaration]
+        ) [VarDeclarationPart]
+      ) [DecarationlList]
+      VarDeclarationPart(
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+          SingleVarDeclaration(
+            VarDeclarationNoArray(
+             bvar
+            ) [VarDeclarationNoArray]
+          ) [SingleVarDeclaration]
+        ) [VarDeclaration]
+      ) [VarDeclarationPart]
+    ) [DecarationlList]
+    VarDeclarationPart(
+      VarDeclaration(
+        Type(
+         int
+        ) [Type]
+        SingleVarDeclaration(
+          VarDeclarationNoArray(
+           nvar
+          ) [VarDeclarationNoArray]
+        ) [SingleVarDeclaration]
+      ) [VarDeclaration]
+    ) [VarDeclarationPart]
+  ) [DecarationlList]
+  SingleMethodDeclaration(
+    VoidMethodDeclaration(
+      MethodVoidName(
+       main
+      ) [MethodVoidName]
+      NoFormPars(
+      ) [NoFormPars]
+      YesVarDeclaration(
+        YesVarDeclaration(
+          YesVarDeclaration(
+            NoVarDeclaration(
+            ) [NoVarDeclaration]
+            VarDeclaration(
+              Type(
+               int
+              ) [Type]
+              SingleVarDeclaration(
+                VarDeclarationNoArray(
+                 bodovi
+                ) [VarDeclarationNoArray]
+              ) [SingleVarDeclaration]
+            ) [VarDeclaration]
+          ) [YesVarDeclaration]
+          VarDeclaration(
+            Type(
+             bool
+            ) [Type]
+            SingleVarDeclaration(
+              VarDeclarationNoArray(
+               bt
+              ) [VarDeclarationNoArray]
+            ) [SingleVarDeclaration]
+          ) [VarDeclaration]
+        ) [YesVarDeclaration]
+        VarDeclaration(
+          Type(
+           char
+          ) [Type]
+          SingleVarDeclaration(
+            VarDeclarationNoArray(
+             ct
+            ) [VarDeclarationNoArray]
+          ) [SingleVarDeclaration]
+        ) [VarDeclaration]
+      ) [YesVarDeclaration]
+      NoStatement(
+      ) [NoStatement]
+    ) [VoidMethodDeclaration]
+  ) [SingleMethodDeclaration]
+) [Program]
+INFO  23:33:53,747 - ===================================
+INFO  23:33:53,752 - global
+INFO  23:33:53,752 - Deklaracija num konstante nula na liniji 5
+INFO  23:33:53,752 - U tabelu simbola uneta konstanta: nula
+INFO  23:33:53,752 - global
+INFO  23:33:53,753 - Deklaracija niza nizch na liniji 6
+INFO  23:33:53,753 - U tabelu simbola uneta promenljiva: nizch
+INFO  23:33:53,753 - global
+INFO  23:33:53,753 - Deklaracija num konstante jedan na liniji 7
+INFO  23:33:53,753 - U tabelu simbola uneta konstanta: jedan
+INFO  23:33:53,753 - global
+INFO  23:33:53,753 - Deklaracija niza niz na liniji 8
+INFO  23:33:53,753 - U tabelu simbola uneta promenljiva: niz
+INFO  23:33:53,753 - global
+INFO  23:33:53,753 - Deklaracija char konstante ch na liniji 9
+INFO  23:33:53,754 - U tabelu simbola uneta konstanta: ch
+INFO  23:33:53,754 - global
+INFO  23:33:53,754 - Deklaracija num konstante pet na liniji 10
+INFO  23:33:53,754 - U tabelu simbola uneta konstanta: pet
+INFO  23:33:53,754 - global
+INFO  23:33:53,754 - Deklaracija bool konstante b na liniji 11
+INFO  23:33:53,754 - U tabelu simbola uneta konstanta: b
+INFO  23:33:53,755 - global
+INFO  23:33:53,755 - Deklaracija promenljive chvar na liniji 12
+INFO  23:33:53,755 - U tabelu simbola uneta promenljiva: chvar
+INFO  23:33:53,755 - global
+INFO  23:33:53,755 - Deklaracija promenljive bvar na liniji 13
+INFO  23:33:53,755 - U tabelu simbola uneta promenljiva: bvar
+INFO  23:33:53,755 - global
+INFO  23:33:53,755 - Deklaracija promenljive nvar na liniji 14
+INFO  23:33:53,756 - U tabelu simbola uneta promenljiva: nvar
+INFO  23:33:53,757 - Obradjuje se funkcija main na liniji 17
+INFO  23:33:53,758 - Deklaracija promenljive bodovi na liniji 18
+INFO  23:33:53,758 - U tabelu simbola uneta promenljiva: bodovi
+INFO  23:33:53,758 - Deklaracija promenljive bt na liniji 19
+INFO  23:33:53,758 - U tabelu simbola uneta promenljiva: bt
+INFO  23:33:53,759 - Deklaracija promenljive ct na liniji 20
+INFO  23:33:53,760 - U tabelu simbola uneta promenljiva: ct
+INFO  23:33:53,761 -  Print count calls = 0
+INFO  23:33:53,761 -  Deklarisanih promenljivih ima = 8
+INFO  23:33:53,761 - ===================================
+INFO  23:33:53,885 - Parsiranje uspesno zavrseno!
